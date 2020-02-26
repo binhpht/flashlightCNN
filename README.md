@@ -23,7 +23,7 @@ The models used for valuating can be downloaded  [here](./evaluation_models)
 
 ### Result
 ## Gaussian Denoising
-**The average PSNR(dB), SSIM results of different methods on the set12, BSD60, Urban100 [datasets](./datasets).**.
+**Performance comparison in terms of PSNR and SSIM on Set12, BSD68 and Urban100 on [datasets](./datasets). with noise levels of 15, 25,50. The unavailable values are replaced by ”—”**.
 
 | dataset  | sigma | flashlightcnn PSRN | flashlight SSIM | dncnn PSRN  | dncnn SSIM| ffdnet PSRN| ffdnet SSIM | bm3d PSRN  | bm3d SSIM | ircnn PSRN  | ircnn SSIM | hrlnet | hrlnetssim |
 |----------|-------|---------------|-------------------|--------|-----------|--------|------------|--------|----------|--------|-----------|--------|------------|
@@ -38,7 +38,6 @@ The models used for valuating can be downloaded  [here](./evaluation_models)
 | urban100 | 50    | 27\.05        | 0\.8183           | 26\.28 | 0\.7864   | 26\.55 | 0\.8060    | 26\.08 | 0\.7797  | 26\.24 | 0\.7927   | \-     | \-         |
 
 
-The unavailable values are replaced by ”—”
 
 
 
