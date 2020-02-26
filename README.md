@@ -11,6 +11,8 @@ FlashLightCNN  is  made  up  two  phases:warm up and boost phases,with a residua
 
 ---
 The boost phase implements the customized residual inception layers that designed to maintain the learning capacity of great deep neural networks as show in the figure below
+
+
 <img src="figures/inception_modules.png" width="200"/>
 
 
