@@ -25,7 +25,7 @@ The models used for valuating can be downloaded  [here](./evaluation_models)
 
 ### Result
 ## Gaussian Denoising
-**Performance comparison in terms of PSNR and SSIM on [datasets](./datasets): Set12, BSD68 and Urban100 with noise levels of 15, 25,50. The unavailable values are replaced by ”—”**.
+**[datasets](./datasets): Set12, BSD68 and Urban100 
 <img src="figures/table1.png" width="900px"/>
 
 ## REFERENCES
