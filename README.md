@@ -31,6 +31,9 @@ The models used for valuating can be downloaded  [here](./evaluation_models)
 ## REFERENCES
 [1]  K.  Dabov,  A.  Foi,  V.  Katkovnik,  and  K.  Egiazar-ian,  “Image denoising by sparse 3-d transform-domain
 collaborative  filtering,”IEEE  Transactions  on  ImageProcessing, vol. 16, no. 8, pp. 2080–2095, aug 2007.
+
 [12]  Kai  Zhang,  Wangmeng  Zuo,  and  Lei  Zhang,   “FFD-Net:  Toward  a  fast  and  flexible  solution  for  CNN-based image denoising,”IEEE Transactions on ImageProcessing, vol. 27, no. 9, pp. 4608–4622, sep 2018.
+
 [13]  Kai  Zhang,  Wangmeng  Zuo,  Shuhang  Gu,  and  LeiZhang,  “Learning deep CNN denoiser prior for imagerestoration,”   in2017  IEEE  Conference  on  ComputerVision   and   Pattern   Recognition   (CVPR).   jul   2017,IEEE.
+
 [14]  Wuzhen Shi, Feng Jiang, Shengping Zhang, Rui Wang,Debin  Zhao,  and  Huiyu  Zhou,   “Hierarchical  residuallearning  for  image  denoising,”Signal  Processing:Image Communication, vol. 76, pp. 243–251, aug 2019
