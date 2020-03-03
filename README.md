@@ -1,8 +1,8 @@
 # FlashLight CNN
-<small>Version 1.0.2, 2020-02-02</small>
+Preliminary version: https://arxiv.org/abs/2003.00762
+<small>Version 1.0, 2020-02-02</small>
 ---
  We propose  a  learning-based  denoising  method called  FlashLight  CNN  (FLCNN)  that  implements  a  deep neural network for image denoising. The proposed approach is based on  deep residual networks and inception  networks and it is able to leverage many more parameters than residual networks alone for denoising grayscale images corrupted by additive  white  Gaussian  noise  (AWGN).  FlashLight  CNN demonstrates  state  of  the  art  performance  when  compared quantitatively  and  visually  with  the  current  state  of  the  art image denoising methods:
-https://arxiv.org/abs/2003.00762
 
 ## Network Architectures!
 FlashLightCNN  is  made  up  two  phases:warm up and boost phases,with a residual skip connection between the input and the output.
