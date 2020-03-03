@@ -25,7 +25,6 @@ The models used for valuating can be downloaded  [here](./evaluation_models)
 
 ### Result
 ## Gaussian Denoising
-[Set12, BSD68 and Urban100](./datasets):  
 <img src="figures/table1.png" width="900px"/>
 
 ## REFERENCES
